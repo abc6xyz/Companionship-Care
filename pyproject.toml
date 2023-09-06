@@ -15,7 +15,7 @@ whitenoise = {extras = ["brotli"], version = "^6.3.0"}
 reportlab = "^3.6.12"
 svglib = "^1.5.1"
 easy-thumbnails = "^2.8.5"
-django-browser-reload = "^1.6.0"
+django-browser-reload = "^1.11.0"
 dj-rest-auth = {extras = ["with-social"], version = "^2.2.7"}
 
 [tool.poetry.dev-dependencies]
